@@ -181,9 +181,8 @@ Yetki Seviyeleri:
 📧 İletişim
 Sorularınız veya önerileriniz için:
 
-E-posta: efeahmet@example.com
-GitHub: kullanici/stok-yonetim-sistemi
+E-posta: efe.ahmet@netline.net.tr
 
 
 
-Gelişmiş Stok Yönetim Sistemi ile iş süreçlerinizi kolaylaştırın! 🚀
+
